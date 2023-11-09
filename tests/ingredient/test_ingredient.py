@@ -1,4 +1,4 @@
-from src.models.ingredient import Ingredient  # noqa: F401, E261, E501
+from src.models.ingredient import Ingredient  # noqa: F401, E261, E501!
 
 
 # Req 1
